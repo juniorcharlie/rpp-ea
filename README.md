@@ -80,11 +80,9 @@ If you use this code, please cite:
             for Grid-Based Robot Path Planning},
   year   = {2026},
   howpublished = {engrXiv preprint},
-  note   = {\url{https://doi.org/10.31224/osf.io/XXXXX}}
+  note   = {\url{https://doi.org/10.31224/7994}}
 }
 ```
-
-*(Replace the DOI above once the preprint is live on engrXiv.)*
 
 ## License
 
